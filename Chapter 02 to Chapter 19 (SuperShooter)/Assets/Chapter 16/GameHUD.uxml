@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Chapter%2016/GameUSS.uss?fileID=7433441132597879392&amp;guid=1dc6b16510f584ec6af9c8d48c049af5&amp;type=3#GameUSS" />
+    <ui:VisualElement style="position: absolute; width: 100px; height: 100px; top: 30px; left: 30px; background-image: url(&apos;project://database/Assets/Chapter%2015%20(CSharp)/Sprites/avatar.png?fileID=21300000&amp;guid=ccc68f4e0440d21469ddb44ce6b7e25e&amp;type=3#avatar&apos;);" />
+    <ui:VisualElement name="PlayerHealth" style="position: absolute; width: 492px; height: 35px; top: 53px; left: 153px;">
+        <ui:VisualElement name="Filling" style="background-color: rgb(255, 18, 0); position: absolute; left: 0; top: 0; width: 50%; height: 100%;" />
+        <ui:VisualElement name="Border" style="position: absolute; left: -15px; top: -15px; width: auto; height: auto; -unity-slice-left: 15; -unity-slice-top: 15; -unity-slice-right: 15; -unity-slice-bottom: 15; background-image: url(&apos;project://database/Assets/Chapter%2015%20(CSharp)/GUI_Parts/Gui_parts/Hp_frame.png?fileID=21300000&amp;guid=9d5f6625b0b035841a1153f7e5466a94&amp;type=3#Hp_frame&apos;); right: -15px; bottom: -15px;" />
+    </ui:VisualElement>
+    <ui:VisualElement name="BaseHealth" style="position: absolute; width: auto; height: 35px; top: auto; left: 50px; right: 50px; bottom: 50px;">
+        <ui:VisualElement name="Filling" style="background-color: rgb(0, 255, 13); position: absolute; left: 0; top: 0; width: 50%; height: 100%;" />
+        <ui:VisualElement name="Border" style="position: absolute; left: -15px; top: -15px; width: auto; height: auto; -unity-slice-left: 15; -unity-slice-top: 15; -unity-slice-right: 15; -unity-slice-bottom: 15; background-image: url(&apos;project://database/Assets/Chapter%2015%20(CSharp)/GUI_Parts/Gui_parts/Hp_frame.png?fileID=21300000&amp;guid=9d5f6625b0b035841a1153f7e5466a94&amp;type=3#Hp_frame&apos;); right: -15px; bottom: -15px;" />
+    </ui:VisualElement>
+    <ui:Label tabindex="-1" text="Score: 0" display-tooltip-when-elided="true" class="HUDText" style="top: 45px; right: 50px; left: auto; width: 301px; height: 73px;" />
+    <ui:Label tabindex="-1" text="Bullets: 0" display-tooltip-when-elided="true" class="HUDText" style="position: absolute; height: 59px; width: 299px; top: 140px; left: auto; right: 50px;" />
+</ui:UXML>

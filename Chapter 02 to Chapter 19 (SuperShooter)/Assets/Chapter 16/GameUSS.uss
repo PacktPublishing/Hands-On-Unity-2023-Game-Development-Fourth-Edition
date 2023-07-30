@@ -1,0 +1,9 @@
+.HUDText {
+    position: absolute;
+    height: 59px;
+    width: 299px;
+    top: 39px;
+    left: 1591px;
+    -unity-font-definition: url('project://database/Assets/Chapter%2016/militech_r_2019-04-13%20SDF.asset?fileID=11400000&guid=e3f45fb921ae34519a7d43a9d5b5c09b&type=2#militech_r_2019-04-13 SDF');
+    font-size: 76px;
+}
