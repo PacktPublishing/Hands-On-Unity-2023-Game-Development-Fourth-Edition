@@ -833,11 +833,11 @@
      <Reference Include="Unity.XR.ARCore">
      <HintPath>/Users/juangabriel/Developer/Github/Hands-On-Unity-2023-Game-Development-Fourth-Edition/Chapter 20 (AR Foundation)/Library/ScriptAssemblies/Unity.XR.ARCore.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-     <HintPath>/Users/juangabriel/Developer/Github/Hands-On-Unity-2023-Game-Development-Fourth-Edition/Chapter 20 (AR Foundation)/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.XR.ARFoundation.Editor">
      <HintPath>/Users/juangabriel/Developer/Github/Hands-On-Unity-2023-Game-Development-Fourth-Edition/Chapter 20 (AR Foundation)/Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
+     <HintPath>/Users/juangabriel/Developer/Github/Hands-On-Unity-2023-Game-Development-Fourth-Edition/Chapter 20 (AR Foundation)/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.AI.Navigation.Editor.ConversionSystem">
      <HintPath>/Users/juangabriel/Developer/Github/Hands-On-Unity-2023-Game-Development-Fourth-Edition/Chapter 20 (AR Foundation)/Library/ScriptAssemblies/Unity.AI.Navigation.Editor.ConversionSystem.dll</HintPath>
