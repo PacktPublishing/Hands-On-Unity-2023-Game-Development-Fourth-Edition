@@ -14,16 +14,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_EnvironmentLayer: 30
   m_EnvironmentScanParams:
-    m_MinimumRescanTime: 0.1
+    m_MinimumRescanTime: 0.15
     m_DeltaCameraDistanceToRescan: 0.025
     m_DeltaCameraAngleToRescan: 4
-    m_RaysPerCast: 10
-    m_MaximumHitDistance: 12
+    m_RaysPerCast: 256
+    m_MaximumHitDistance: 2
     m_MinimumHitDistance: 0.05
+  m_TrackedImageDiscoveryParams:
+    m_TrackingUpdateInterval: 0.1
   m_PlaneFindingParams:
-    m_MinimumPlaneUpdateTime: 0.13
-    m_MinPointsPerSqMeter: 30
-    m_MinSideLength: 0.11
+    m_MinimumPlaneUpdateTime: 0.2
+    m_MinPointsPerSqMeter: 600
+    m_MinSideLength: 0.15
     m_InLayerMergeDistance: 0.2
     m_CrossLayerMergeDistance: 0.05
     m_CheckEmptyArea: 0
@@ -51,17 +53,8 @@ MonoBehaviour:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
-    m_PointUpdateDropoutRate: 0.4
+    m_PointUpdateDropoutRate: 0.667
     m_NormalToleranceAngle: 15
     m_VoxelSize: 0.1
-  m_TrackedImageDiscoveryParams:
-    m_TrackingUpdateInterval: 0.09
-  m_EnvironmentProbeDiscoveryParams:
-    m_MinUpdateTime: 0.2
-    m_MaxDiscoveryDistance: 3
-    m_DiscoveryDelayTime: 1
-    m_CubemapFaceSize: 16
-  m_AnchorDiscoveryParams:
-    m_MinTimeUntilUpdate: 0.2
   m_UseXRay: 1
   m_FlipXRayDirection: 0
