@@ -46,7 +46,7 @@ public class EnemyFSM : MonoBehaviour
             currentState = EnemyState.ChasePlayer;
 
         float distanceToBase = Vector3.Distance(transform.position, baseTransform.position);
-        if (distanceToBase <= baseAttackDistance)
+        if (distanceToBase < baseAttackDistance)
             currentState = EnemyState.AttackBase;
     }
 
