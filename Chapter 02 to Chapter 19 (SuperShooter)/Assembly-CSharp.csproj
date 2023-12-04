@@ -124,6 +124,7 @@
      <Folder Include="Assets/Chapter 07 (CSharp)/PhysicsMaterials" />
      <Folder Include="Assets/Chapter 14 (CSharp)/EffectExamples" />
      <None Include="Assets/Chapter 16/GameHUD.uxml" />
+     <Folder Include="Assets/Chapter 14 (Visual Scripting)/Game_Chapter14_VisualScripting" />
      <Folder Include="Assets/Chapter 04/Sci-Fi Styled Modular Pack/Prefabs/Walls" />
      <Folder Include="Assets/Chapter 06 (Visual Scripting)/Materials" />
      <Folder Include="Assets/Chapter 10/Shaders" />
@@ -147,16 +148,19 @@
      <Folder Include="Assets/TextMesh Pro/Resources" />
      <Folder Include="Assets/UI Toolkit/Resources" />
      <Folder Include="Assets/Chapter 15 (CSharp)/Sprites" />
+     <Folder Include="Assets/Chapter 14 (CSharp)/Game_Chapter14" />
      <Folder Include="Assets/TEST" />
      <None Include="Assets/Chapter 14 (CSharp)/explosionsoundslite/readme.txt" />
      <Folder Include="Assets/Chapter 17 (CSharp)/Prefabs" />
      <Folder Include="Assets/Chapter 07 (Visual Scripting)/Prefabs" />
+     <Folder Include="Assets/Chapter 11 (CSharp)/Game_Chapter11" />
      <Folder Include="Assets/Chapter 08 (Visual Scripting)/Prefabs" />
      <Folder Include="Assets/Chapter 11 (CSharp)/EffectExamples/FireExplosionEffects" />
      <Folder Include="Assets/Chapter 04/SciFiWarriorPBRHPPolyart/Mesh" />
      <Folder Include="Assets/Chapter 02/Prefabs" />
      <Folder Include="Assets/Chapter 06 (CSharp)/Prefabs" />
      <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" />
+     <Folder Include="Assets/Chapter 10/Game_Chapter10" />
      <Folder Include="Assets/Chapter 04/Sci-Fi Styled Modular Pack/Prefabs" />
      <Folder Include="Assets/Chapter 17 (Visual Scripting)/Scripts" />
      <Folder Include="Assets/Chapter 11 (CSharp)/EffectExamples2/FireExplosionEffects/Textures" />
@@ -171,6 +175,7 @@
      <Folder Include="Assets/Resources" />
      <Folder Include="Assets/Chapter 15 (Visual Scripting)/Prefabs" />
      <Folder Include="Assets/Chapter 11 (CSharp)/EffectExamples2/WeaponEffects" />
+     <Folder Include="Assets/Chapter 11 (Visual Scripting)/Game_Chapter11_VisualScripting" />
      <Folder Include="Assets/Chapter 14 (CSharp)/44.1 General Library (Free Sample Pack)/Volume II" />
      <Folder Include="Assets/Chapter 04/Sci-Fi Styled Modular Pack" />
      <Folder Include="Assets/Chapter 04/SciFiWarriorPBRHPPolyart/Prefabs" />
@@ -242,6 +247,7 @@
      <Folder Include="Assets/Chapter 11 (Visual Scripting)" />
      <Folder Include="Assets/Chapter 14 (CSharp)/explosionsoundslite" />
      <Folder Include="Assets/Chapter 11 (CSharp)/EffectExamples/FireExplosionEffects/Materials" />
+     <Folder Include="Assets/Chapter 15 (CSharp)/Game_Chapter15_CSharp" />
      <Folder Include="Assets/Chapter 04/Textures" />
      <Folder Include="Assets/Chapter 14 (CSharp)/Audio Mixers" />
      <Folder Include="Assets/UI Toolkit/UnityThemes" />
