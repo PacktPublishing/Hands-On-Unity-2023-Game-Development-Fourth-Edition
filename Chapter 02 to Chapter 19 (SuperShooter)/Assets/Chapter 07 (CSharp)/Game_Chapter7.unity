@@ -9694,6 +9694,10 @@ PrefabInstance:
       value: window_big_corner_plug
       objectReference: {fileID: 0}
     - target: {fileID: 151518, guid: abf1f5179163bad469b298f28ca52e5f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 151518, guid: abf1f5179163bad469b298f28ca52e5f, type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
