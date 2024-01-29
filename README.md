@@ -30,19 +30,25 @@ Section 1: Getting Started with Unity
 2. Crafting Scenes and Game Elements
 3. From Blueprint to Reality: Building with Terrain and ProBuilder
 4. Seamless Integration: Importing and Integrating Assets
+
 Section 2: Mastering Programming and Gameplay Mechanics
+
 5. Unleashing the Power of C# and Visual Scripting
 6. Dynamic Motion: Implementing Movement and Spawning
 7. Collisions and Health: Detecting Collisions Accurately
 8. Victory or Defeat: Win and Lose Conditions
 9. Starting your AI Journey: Building Intelligent Enemies for Your Game
+
 Section 3: Elevating Visuals, Effects, and Audio
+
 10. Material Alchemy: Using URP and Shader Graph for Stunning Visuals
 11. Captivating Visual Effeects: Harnessing Particle Systems and VFX Graph
 12. Enlightening Worlds: Illuminating Scenes with the Universal Render Pipeline
 13. Immersive Realism: Achieving Fullscreen Eff ects with Postprocessing
 14. Harmonious Soundscapes: Integrating Audio and Music
+
 Section 4: Designing User Interfaces, Animations and Advanced Concepts
+
 15. Interface Brilliance: Designing User-Friendly UI
 16. Next-Gen UI: Creating Dynamic Interfaces with UI Toolkit
 17. Animated Realities: Craft ing Animations with Animator, Cinemachine, and Timeline
